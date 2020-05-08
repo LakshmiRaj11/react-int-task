@@ -1,0 +1,10 @@
+.editicon {
+    cursor: pointer;
+    opacity: 0.5;
+}
+.EXP .amount {
+    color: #ff4d4d;
+}
+.INC .amount {
+    color: #08ce08;
+}

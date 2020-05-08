@@ -1,0 +1,27 @@
+.header {
+    font-size: 18px;
+    text-align: left;
+    margin-bottom: 40px;
+    display: flex;
+    align-items: center;
+}
+.fullwidth {
+    width: 100%;
+    border: 1px solid #dddddd;
+    border-radius: 5px;
+    padding: 5px 10px;
+}
+.container {
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 700px;
+}
+.backarrow {
+    margin-right: 15px;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+.mb-30 {
+    margin-bottom: 30px;
+}
